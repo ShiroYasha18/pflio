@@ -8,7 +8,7 @@ export const loaderAnimation = [
 
 export const LINKS = {
   github: 'https://github.com/ShiroYasha18',
-  linkedin: 'https://www.linkedin.com/in/bue221/',
+  linkedin: 'https://www.linkedin.com/in/ayraf-raihan-18082004ay/',
   mail: 'mailto:ayrafr8@gmail.com',
 
 }
