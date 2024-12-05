@@ -9,10 +9,8 @@ export const loaderAnimation = [
 export const LINKS = {
   github: 'https://github.com/ShiroYasha18',
   linkedin: 'https://www.linkedin.com/in/bue221/',
-  mail: 'mailto:camiloplaza3@gmail.com',
-  instagram: 'https://www.instagram.com/caj_ink/',
-  medium: 'https://ladvace.medium.com/',
-  discord: 'https://discordapp.com/users/163300027618295808',
+  mail: 'mailto:ayrafr8@gmail.com',
+
 }
 
 // Global
